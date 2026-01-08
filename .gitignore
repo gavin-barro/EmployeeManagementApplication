@@ -3,4 +3,4 @@ springboot-setup.png
 database.txt
 .DS_Store
 setup.txt
-application.properties
+springboot-backend/src/main/resources/application.properties
